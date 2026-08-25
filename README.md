@@ -1,4 +1,4 @@
-# WorkBuddy MC 启动器
+# SFT MC 启动器
 
 一个基于 Python + PyQt6 的 Minecraft Java 版启动器，目标平台 Windows，支持打包为 `.exe`。
 
